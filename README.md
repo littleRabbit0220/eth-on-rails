@@ -117,6 +117,5 @@ The `#show` controller gets a user by `eth_address` from the database and return
 
 ### Credits
 
-The Ethereum-on-Rails template was written by [@littleRabbit](https://github.com/q9f) can be found and used on Github directly: [github/littleRabbit/eth-on-rails](https://github.com/q9f/ethereum-on-rails/)
+The Ethereum-on-Rails template was written by [@littleRabbit](https://github.com/q9f) can be found and used on Github directly: [github/littleRabbit0220/eth-on-rails](https://github.com/littleRabbit0220/eth-on-rails/)
 
-This Rails application template implements the logic described by Amaury Martiny in [One-click Login with Blockchain: A MetaMask Tutorial](https://www.toptal.com/ethereum/one-click-login-flows-a-metamask-tutorial) - brilliant, though slightly outdated, resource! Thanks for that.
